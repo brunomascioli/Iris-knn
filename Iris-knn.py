@@ -1,4 +1,4 @@
-# Feito por: Bruno Mascioli de Souza e Lucas Pereira dos Santos
+# Creators: Bruno Mascioli de Souza (github: brunomascioli) and Lucas Pereira dos Santos (github: LucassSantoss)
 import math
 from random import choice
 
